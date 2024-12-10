@@ -24,27 +24,27 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#f0f0f0', // Background color
+    backgroundColor: '#f0f0f0',
   },
   button: {
-    flexDirection: 'row', // Layout the image and text horizontally
+    flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#1E90FF', // Button background color
+    backgroundColor: '#1E90FF',
     padding: 15,
     marginVertical: 10,
-    borderRadius: 10, // Rounded corners
+    borderRadius: 10,
     width: '50%',
   },
   buttonImage: {
-    width: 40, // Width of the image
-    height: 40, // Height of the image
-    marginRight: 10, // Space between image and text
+    width: 40,
+    height: 40,
+    marginRight: 10,
   },
   buttonText: {
     fontSize: 18,
     fontWeight: 'bold',
-    color: '#fff', // Text color
+    color: '#fff',
   },
 });
 

@@ -4,7 +4,7 @@ import { View, Text } from 'react-native';
 const News = () => {
   return (
     <View>
-      <Text>ongoing develop</Text>
+      <Text>ongoing development</Text>
     </View>
   );
 };
